@@ -1,0 +1,2 @@
+In this lecture , i learned about Introduction to Cpp for learning the course of Data structures using Cpp.
+Cpp is more efficiency ,strong abstraction capabilities ,standard Template Library(STL) and it is complie time checks . so that's we use Cpp other than programming languages.this all about lecture 1.
