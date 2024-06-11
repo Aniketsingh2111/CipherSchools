@@ -2,11 +2,13 @@
 using namespace std;
 int main(){
     int a , b ,c ,d;
-    cout<<"Enter 4 integer a,b,c,d"<<endl;
     cin>> a ;
     cin>>b;
+    cout<< (a>b); // return 0 for false and 1 for true
+     
     cin >> c ;
     cin>>d;
-    cout<<(a>b && c>d);
+    cout<<(a>b && c>d);//logical and
+
 
 }
