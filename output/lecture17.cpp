@@ -6,7 +6,7 @@ void Printhi(){
 }
 int sum(int a, int b){
     int c = a+b;
-    cout<<"the value of c is: "<<c<<endl;
+    cout<<"The value of c is: "<<c<<endl;
     return c;
 }
 
@@ -20,7 +20,7 @@ int main(){
     int d ;
     d = sum(a,b);
     cout<<"The sum is "<<d<<endl;
-    cout<<"the value of c is: "<<c;
+    cout<<"The value of c is: "<<c;
     
     return 0;
 
